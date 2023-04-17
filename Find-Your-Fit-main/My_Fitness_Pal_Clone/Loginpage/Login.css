@@ -5,6 +5,7 @@
 body{
     margin: 0px;
     width: 100%;
+    background-color: #f7f7f7;
 }
 
             /* top_nav_bar */
@@ -39,7 +40,7 @@ body{
     /* justify-content:left; */
     align-items: center;
     /* gap: 4%; */
-   
+    background-color: #f7f7f7;
 }
 #logo{
     width:60%;
@@ -94,7 +95,7 @@ a, a:link, a:visited {
 
 .header__navigation_bar{
     width: 100%;
-    background-color: #0072BF;
+    background-color: black;
     /* margin-top: 15px; */
     min-height: 45px;
     display: flex;
@@ -153,6 +154,7 @@ form{
     border-radius: 1em;
     width: 234px;
     margin-top: 30px;
+    background-color: #cccccc;
 
 }
 
@@ -231,7 +233,7 @@ form .Checkbox{
     text-align: center;
     color: white;
     font-family: 'Montserrat', sans-serif;
-    background-color: rgba(0, 81, 255, 0.85);
+    background-color: #4267B2;
     margin-bottom: 15px;
     cursor: pointer;
     
@@ -265,7 +267,7 @@ form .Checkbox{
     margin-top: 10px;
 }
 .footer_upper_content > a{
-    color: #0072BC;
+    color: black;
     cursor: pointer;
     text-decoration: none;
     font-size: 12px;
